@@ -1,3 +1,13 @@
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=2000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Привет+👋,+я+Ерлан;Python+Developer+и+1C+специалист;Автоматизация,+Аналитика,+Парсинг;Веб-разработка+на+Django+и+Frontend;" alt="Typing SVG" style="vertical-align: bottom;"/>
+  <img src="https://github.com/YerlanKulmanov/YerlanKulmanov/blob/main/assets/pro.gif" alt="Pro" width="60" style="vertical-align:bottom;" align="right"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/YerlanKulmanov/YerlanKulmanov/blob/main/assets/redline.gif" width="100%"/>
+</div>
+
 # KRISHA PARSER — TEXT ONLY
 
 ![Welcome](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
@@ -36,9 +46,10 @@
 
 krisha_parser/
 │
-├─ results.csv       # CSV с собранными объявлениями
-├─ parser.log        # лог работы парсера
-├─ main.py           # основной скрипт-парсер
-├─ analytics.py      # скрипт для анализа данных и построения графиков
-├─ dashboard.py      # интерактивный дэшборд на Streamlit
+├─ results.csv       # CSV с собранными объявлениями  
+├─ parser.log        # лог работы парсера  
+├─ main.py           # основной скрипт-парсер  
+├─ analytics.py      # скрипт для анализа данных и построения графиков  
+├─ dashboard.py      # интерактивный дэшборд на Streamlit  
 └─ README.md         # документация проекта
+
